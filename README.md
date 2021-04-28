@@ -44,3 +44,21 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+#Additional info
+
+The project was done with these additional libraries
+
+You will need to install Npm and the additional libraries below
+
+Styled Componenents
+npm install --save styled-components
+
+redux
+npm install redux
+
+react persist
+npm install redux-persist @types/redux-persist --save
+
+react hook-mousetrap
+npm install react-hook-mousetrap
